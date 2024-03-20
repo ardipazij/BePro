@@ -5,8 +5,8 @@ Server part of the bePro mobile application
 
 ### 1. Registration and authorization
 
-<img src="img/autorization.jpg" alt="Image 1" width="200px" height="300px">
-<img src="img/Registration.jpg" alt="Image 2" width="200px" height="300px">
+<img src="img/autorization.jpg" alt="Image 1" width="200px" height="300px" style="display: inline-block;">
+<img src="img/Registration.jpg" alt="Image 2" width="200px" height="300px" style="display: inline-block;">
 
 ### 2. Team's information
 
